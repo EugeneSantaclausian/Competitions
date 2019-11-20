@@ -7,3 +7,6 @@ Senior High School. This is mainly due to various reasons; particularly due to t
 & weaknesses of students. Most schools in Ghana lack a proper record system. One that includes the long term performance of students that can
 be assessed to identify patterns in the data that can be useful to the student in deciding what course to choose after school or what career 
 paths to pursue.
+
+This project is still in the development process. After long periods of deliberating, The Sidu Team intends to make the application open source, one that can accessed by all schools and students. If you're interested in finding out more or helping Us in anyway at all, do visit our site at www.sidu.netlify.com 
+
