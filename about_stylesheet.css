@@ -1,0 +1,375 @@
+
+.about-jumbotron{
+
+  color: black;
+  background-color: white;
+  background-size: cover;
+  background-position: ;
+  background-repeat:no-repeat;
+  background-image:url(sidu-ai-white.jpg);
+  opacity: ;
+  height:500px;
+
+}
+
+.about-content{
+
+    margin-top: 0px;
+    padding: 9rem 3rem;
+
+}
+
+.about-content hr{
+
+	  background-color: black;
+  	width: 320px;
+  	margin-right: 1500px;
+  
+
+}
+
+.about-lead{
+
+  font-size: 1.25rem;
+  font-weight: 400;
+
+}
+
+@media (max-width: 1024px) {
+  .about-jumbotron {
+
+    background-size: cover;
+    background-repeat:no-repeat;
+    width:100%;
+    background-position: top;
+    height: 450px;
+
+  }
+
+  .about-content{
+
+    margin-top: 0px;
+    padding: 7rem 3rem;
+
+  }
+
+  .about-content h2{
+
+    
+
+  }
+
+  .about-content hr{
+
+      width: 350px;
+      margin-right: 900px;
+  
+
+  }
+
+  .about-lead{
+
+    font-size: 1.0rem;
+    font-weight: 200;
+
+  }
+
+
+}
+
+@media (max-width: 768px) {
+  .about-jumbotron {
+
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    width:100%;
+    background-position: top;
+    font-weight:2px;
+    height: 350px;
+
+  }
+
+  .about-content{
+
+    padding: 5rem 3rem;
+
+  }
+
+  .about-content hr{
+
+      width: 240px;
+      margin-right: 900px;
+  }
+
+  .about-lead{
+
+    font-size: 1.0rem;
+    font-weight: 100;
+  }
+
+}
+
+@media (max-width: 600px) {
+  .about-jumbotron {
+
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    width:100%;
+    background-position: top;
+    height: 270px;
+
+  }
+
+
+  .about-content{
+
+    padding: 4rem 2rem;
+
+  }
+
+
+  .about-content hr{
+
+      width: 160px;
+      margin-right: 700px;
+  }
+
+  .about-lead{
+
+    font-size: 0.6rem;
+    font-weight: 50;
+
+  }
+
+
+}
+
+@media (max-width: 425px) {
+  .custom-jumbotron {
+
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    width:100%;
+    background-position: top;
+    height: 150px;
+
+  }
+
+  .overlay{
+    height:280px;
+  }
+
+  #content{
+
+    padding: 0rem 1rem;
+
+  }
+
+  #content img{
+
+    width: 100px;
+    height: 100px;
+
+  }
+
+  #content hr{
+
+      width: 160px;
+      margin-right: 700px;
+  }
+
+  #content p{
+
+    margin-top: -10px;
+    font-size: 0.6rem;
+    font-weight: 50;
+
+  }
+
+  #homebutton{
+
+  margin-top: -30px;
+  font-size: 8px;
+  border-radius:100px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  
+
+  }
+
+  #text-wrapper{
+
+  padding: 7px;
+
+}
+
+
+  .intro-head{
+
+    font-size: 15px;
+
+  }
+
+  .intro-p{
+
+    font-size: 12px;
+
+  }
+
+}
+
+@media (max-width: 375px) {
+  .custom-jumbotron {
+
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    width:100%;
+    background-position: top;
+    height: 150px;
+
+  }
+
+  .overlay{
+    height:280px;
+  }
+
+  #content{
+
+    padding: 0rem 1rem;
+
+  }
+
+  #content img{
+
+    width: 80px;
+    height: 80px;
+
+  }
+
+  #content hr{
+
+      width: 150px;
+      margin-right: 700px;
+  }
+
+  #content p{
+
+    margin-top: -10px;
+    font-size: 0.6rem;
+    font-weight: 50;
+
+  }
+
+  #homebutton{
+
+  margin-top: -30px;
+  font-size: 8px;
+  border-radius:100px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  
+
+  }
+
+  #text-wrapper{
+
+  padding: 7px;
+
+}
+
+
+  .intro-head{
+
+    font-size: 15px;
+
+  }
+
+  .intro-p{
+
+    font-size: 12px;
+
+  }
+
+}
+
+
+
+@media (max-width: 320px) {
+  .custom-jumbotron {
+
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    width:100%;
+    background-position: bottom;
+    height: 140px;
+
+  }
+
+  .overlay{
+    height:220px;
+  }
+
+  #content{
+
+    padding: 0rem 1rem;
+
+  }
+
+  #content img{
+
+    width: 70px;
+    height: 70px;
+
+  }
+
+  #content hr{
+
+      width: 100px;
+      margin-right: 400px;
+  }
+
+  #content p{
+
+    margin-top: -10px;
+    font-size: 0.1rem;
+    font-weight: 2px;
+
+  }
+
+
+  #homebutton{
+
+  margin-top: -30px;
+  font-size: 8px;
+  border-radius:200px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: -2px;
+  padding-bottom: -2px;
+  
+  }
+
+  #text-wrapper{
+
+  padding: 5px;
+
+}
+
+
+  .intro-head{
+
+    font-size: 14px;
+
+  }
+
+  .intro-p{
+
+    font-size: 10px;
+
+  }
+
+}
