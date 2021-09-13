@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b49d72ac.chunk.css",
+    "main.js": "/static/js/main.da5f2772.chunk.js",
+    "main.js.map": "/static/js/main.da5f2772.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.836b504c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.836b504c.js.map",
+    "static/js/2.2f544d35.chunk.js": "/static/js/2.2f544d35.chunk.js",
+    "static/js/2.2f544d35.chunk.js.map": "/static/js/2.2f544d35.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2c3b54bc734cf64aa4bbda12953a0927.js": "/precache-manifest.2c3b54bc734cf64aa4bbda12953a0927.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b49d72ac.chunk.css.map": "/static/css/main.b49d72ac.chunk.css.map",
+    "static/js/2.2f544d35.chunk.js.LICENSE.txt": "/static/js/2.2f544d35.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Poppins-Light.02c5a7af.otf",
+    "static/media/assessment.svg": "/static/media/assessment.65286c50.svg",
+    "static/media/components.css": "/static/media/typing.89c4c867.svg",
+    "static/media/class.svg": "/static/media/class.3d94ef9a.svg",
+    "static/media/style.css": "/static/media/spinner-white.1a9481f8.svg",
+    "static/media/marks.svg": "/static/media/marks.30408a5f.svg",
+    "static/media/notes.svg": "/static/media/notes.ff0ca2e8.svg",
+    "static/media/preprange.svg": "/static/media/preprange.a1b51485.svg",
+    "static/media/salaries.svg": "/static/media/salaries.6bf18c5b.svg",
+    "static/media/schoolbooks.svg": "/static/media/schoolbooks.9c3e6762.svg",
+    "static/media/scores.svg": "/static/media/scores.e988975e.svg",
+    "static/media/sidu-ed-icn.png": "/static/media/sidu-ed-icn.519d7f1c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.836b504c.js",
+    "static/js/2.2f544d35.chunk.js",
+    "static/css/main.b49d72ac.chunk.css",
+    "static/js/main.da5f2772.chunk.js"
+  ]
+}
